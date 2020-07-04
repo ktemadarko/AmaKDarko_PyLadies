@@ -13,5 +13,5 @@ By:   Ama Korantema Owusu-Darko
 
 Special thanks to my Mentor:  Catherine Nelson
 
-I have my Python Code and a video demo of my project in this repo
+
 
