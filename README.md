@@ -1,5 +1,5 @@
 # AmaKDarko_PyLadies
-Ama's Mini Project
+Ama's Mini Python Project
 
 July 4th, 2020
 
